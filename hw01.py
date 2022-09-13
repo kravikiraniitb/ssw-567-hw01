@@ -30,7 +30,7 @@ def classify_triangle(a, b, c):
     except:
         return "Error occured"
 
-
+print(classify_triangle(3, 4, 5))
 
 
 def test_Equilateral():
