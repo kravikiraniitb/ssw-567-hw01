@@ -1,4 +1,4 @@
-# Inentionally added few bugs, tested them using Pytest
+# Intentionally added few bugs, tested them using Pytest
 import pytest
 
 
